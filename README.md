@@ -1,4 +1,4 @@
-<h1 align="center">MySQL_Layoffs_Database</h1>
+<h1 align="center">Layoffs Database</h1>
 <h3>Case Study: Analysis of Layoff Trends</h3>
     <h4>Objective</h4>
     <p>The analysis aims to understand the trends and patterns in employee layoffs using the layoffs_db2 dataset cleaned from https://github.com/alexandradanca/MySQL_Layoffs_Data_Cleaning.</p> 
